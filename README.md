@@ -1,5 +1,4 @@
 ---
-
 # python-essential
 
 **python-essential** is a fun bootcamp created to introduce and teach foundational Python skills using Jupyter Notebooks. This bootcamp is designed for beginners who want hands-on practice with Python basics and essential programming concepts.
