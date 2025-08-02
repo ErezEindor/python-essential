@@ -6,7 +6,7 @@
 
 This bootcamp is inspired by the excellent Python courses and materials created by:
 - [Jose Portilla](https://www.linkedin.com/in/jmportilla/) & [Pierian Training](https://pieriantraining.com/) – Python Bootcamp
-- [Ryan Mitchell](https://www.linkedin.com/in/ryanemitch/) – Python tutorials and educational content
+- [Ryan Mitchell](https://www.linkedin.com/in/remitchell/) – Python tutorials and educational content
 
 ## Topics Covered
 
