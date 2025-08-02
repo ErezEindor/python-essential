@@ -1,5 +1,3 @@
-Here’s a suggested README for your python-essential bootcamp repository:
-
 ---
 
 # python-essential
@@ -15,8 +13,6 @@ Here’s a suggested README for your python-essential bootcamp repository:
 - Working with lists, dictionaries, and sets
 - Basic file I/O
 - Introduction to Jupyter Notebooks
-
-*(The actual topics may vary depending on the contents of the notebooks.)*
 
 ## How to Run the Notebooks
 
