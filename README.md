@@ -1,7 +1,12 @@
----
 # python-essential
 
 **python-essential** is a fun bootcamp created to introduce and teach foundational Python skills using Jupyter Notebooks. This bootcamp is designed for beginners who want hands-on practice with Python basics and essential programming concepts.
+
+## Inspiration
+
+This bootcamp is inspired by the excellent Python courses and materials created by:
+- [Jose Portilla](https://www.linkedin.com/in/jmportilla/) & [Pierian Training](https://pieriantraining.com/) – Python Bootcamp
+- [Ryan Mitchell](https://www.linkedin.com/in/ryanemitch/) – Python tutorials and educational content
 
 ## Topics Covered
 
@@ -42,5 +47,3 @@
 - To download a specific notebook, click on the filename in GitHub and then click the "Download" button or use "Raw" to save it.
 
 ---
-
-Feel free to customize or expand this README based on the actual notebook contents and your teaching style!
