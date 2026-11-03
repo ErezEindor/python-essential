@@ -66,6 +66,7 @@ The repository is organized into progressive chapters, each building upon previo
 - **6_4_Tuple_Unpacking_Functions.ipynb** - Advanced function techniques with tuple unpacking
 - **6_5_interaction_with_functions.ipynb** - Function interactions and the Three Cup Monte game
 - **6_6_args_kwargs.ipynb** - Flexible function parameters with *args and **kwargs
+- **6_7_Function_practice.ipynb** - Function practice exercises: Lesser of Two Evens, Animal Crackers, and Makes Twenty
 
 ## Additional Resources
 
